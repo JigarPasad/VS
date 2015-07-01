@@ -15,5 +15,9 @@ namespace SourceControl
         {
             InitializeComponent();
         }
+
+        void testchangemathod()
+        {
+        }
     }
 }
