@@ -18,6 +18,16 @@ namespace SourceControl
 
         void testchangemathod()
         {
+            int pqr;
+            int abcd;
+        }
+
+        void sm()
+        {
+        }
+
+        void usm()
+        {
         }
     }
 }
