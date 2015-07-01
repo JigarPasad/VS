@@ -1,0 +1,8 @@
+D:\New folder\c#\SourceControl\bin\Debug\SourceControl.exe
+D:\New folder\c#\SourceControl\bin\Debug\SourceControl.pdb
+D:\New folder\c#\SourceControl\obj\x86\Debug\SourceControl.csprojResolveAssemblyReference.cache
+D:\New folder\c#\SourceControl\obj\x86\Debug\SourceControl.Form1.resources
+D:\New folder\c#\SourceControl\obj\x86\Debug\SourceControl.Properties.Resources.resources
+D:\New folder\c#\SourceControl\obj\x86\Debug\SourceControl.csproj.GenerateResource.Cache
+D:\New folder\c#\SourceControl\obj\x86\Debug\SourceControl.exe
+D:\New folder\c#\SourceControl\obj\x86\Debug\SourceControl.pdb
